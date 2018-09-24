@@ -1,0 +1,12 @@
+.letter {
+    width: 20px;
+    float: left;
+}
+
+.hiddenLetter {
+    visibility: hidden;
+}
+
+.visibleLetter {
+    visibility: visible;
+}

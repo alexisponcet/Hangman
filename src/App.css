@@ -1,0 +1,41 @@
+.app {
+    margin: 0;
+    padding: 0;
+    min-width: 600px;
+    min-height: 600px;
+    position: relative;
+    border: thick black solid;
+}
+
+.rules, .word, .game {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.rules li {
+    text-align: justify;
+}
+
+.rules {
+    top: 20%;
+}
+
+.rules p {
+    text-align: justify;
+    margin-bottom: 0;
+}
+
+.word {
+    top: 40%;
+}
+
+.game {
+    top: 70%;
+    min-width: 500px;
+}
+
+.keyboard, .score {
+    float: left;
+    width: 50%;
+}

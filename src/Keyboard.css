@@ -1,0 +1,15 @@
+.alphabet {
+    float: left;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+
+.alreadyClicked {
+    background-color: grey;
+}
+
+.notAlreadyClicked {
+    background-color: whitesmoke;
+}
+

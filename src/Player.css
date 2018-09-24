@@ -1,0 +1,7 @@
+.currentPlayer {
+    list-style-type: circle;
+}
+
+.waitingPlayer {
+    list-style-type: none;
+}
